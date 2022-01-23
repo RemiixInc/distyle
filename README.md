@@ -2,7 +2,7 @@
 
 Distyle lets you customise the CSS of the Discord Web Client. Just paste in a theme made for BetterDiscord or Powercord and press save! 
 
-*NOTE: This doesn't work with all themes. [Here](https://raw.githubusercontent.com/tazz4843/JetBlack/master/index.css) is a good one that works well.*
+*NOTE: This doesn't work with all themes for some reason. [Here](https://raw.githubusercontent.com/tazz4843/JetBlack/master/index.css) is a good one that works well.*
 
 <div align="center">
   <h2>Install</h2>
